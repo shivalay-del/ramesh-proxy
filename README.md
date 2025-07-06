@@ -23,8 +23,8 @@ After deploying, set these variables in Render:
 
 | Variable   | Example Value        |
 |------------|----------------------|
-| `USERNAME` | RD491                |
-| `PASSWORD` | Shivalay0261@s       |
+| `USERNAME` | user1                |
+| `PASSWORD` | user@123             |
 
 ---
 
